@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @quangminhdz
+- 👋 Hi, I’m @Walnut
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C++, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
